@@ -1,0 +1,12 @@
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\classes\debug
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a4183d5aa0c250d94c4933d6df01b65e3a1ac81c (1).jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a4183d5aa0c250d94c4933d6df01b65e3a1ac81c.jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2ad897e57bff78d7f085ed638fe6ee267fb5b10f (1).jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2ad897e57bff78d7f085ed638fe6ee267fb5b10f.jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-6fa635862a6c9f68dab774b24d4396777d21eb56.jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-6fa635862a6c9f68dab774b24d4396777d21eb56 (1).jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-65abc9570755b546d3c5822d943fed94016cc0c5 (1).jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-65abc9570755b546d3c5822d943fed94016cc0c5.jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-530279165b2eecb989ea53dadb89e548784e7147.jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-530279165b2eecb989ea53dadb89e548784e7147 (1).jar
+C:\Users\gaetano\Google Drive\Bluetooth\BLE\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-2014c383501ec017de567f10fe84e7c197ae186d.jar
